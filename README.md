@@ -1,1 +1,1 @@
-# SalesforceDataConnector
+# SalesforceConnector
